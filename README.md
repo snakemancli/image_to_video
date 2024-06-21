@@ -17,6 +17,6 @@ You can install the necessary Python package with:
 pip install ffmpeg-python
 ```
 ```
-python image_to_video.py --images path/to/images --output path/to/output [--audio path/to/audio]
+python stand.py --images path/to/images --output path/to/output [--audio path/to/audio]
 ```
 
